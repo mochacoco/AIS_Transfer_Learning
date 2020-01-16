@@ -1,2 +1,2 @@
-# AIS_Transfer_Learning
+# Mass Calibration of Soft Sensors Using Optimal Transportation and Neural Network
 This is the source code for the candidate paper "Adaptive Calibration of Soft Sensors using Optimal Transportation Transfer Learning for Mass Production and Long-Term Usage" submitted to Advanced Intelligent Systems. Python file "Soft Sensor Mass Calibration.py" demonstrates how domain adaptation is implemented in the mass calibration situation. Excel file "Mass_total" is a sample data (about 10% of total size) obtained from our experiments.
