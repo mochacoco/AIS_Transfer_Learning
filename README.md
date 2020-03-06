@@ -5,6 +5,6 @@ Python file "Soft Sensor Mass Calibration.py" demonstrates how domain adaptation
 
 If this source information is of your interest, please refer to our full paper; this paper is open-access to all users.
 
-Paper URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/aisy.201900178
+Paper URL: https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.201900178
 
 Paper DOI: https://doi.org/10.1002/aisy.201900178
