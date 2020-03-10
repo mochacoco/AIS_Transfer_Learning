@@ -18,7 +18,7 @@ Contact shigumchis(at)snu.ac.kr if you have any questions.
 # Citation
 Please cite our work as follows:
 ```
-@article{kimtransfer,
+@article{kim2020transfer,
   title={Adaptive Calibration of Soft Sensors Using Optimal Transportation Transfer Learning for Mass Production and Long‐Term Usage},
   author={Kim, DongWook and Kwon, Junghan and Jeon, Byung Jun and Park, Yong-Lae},
   journal={Advanced Intelligent Systems},
