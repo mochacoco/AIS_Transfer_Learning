@@ -9,11 +9,11 @@ Paper URL: https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.201900178
 
 Paper DOI: https://doi.org/10.1002/aisy.201900178
 
+Contact shigumchis(at)snu.ac.kr if you have any questions.
+
 # Environments
 > Python 2.7
 > Tensorflow 1.3.0
-
-Contact shigumchis(at)snu.ac.kr if you have any questions.
 
 # Citation
 Please cite our work as follows:
