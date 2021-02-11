@@ -9,7 +9,7 @@ Paper URL: https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.201900178
 
 Paper DOI: https://doi.org/10.1002/aisy.201900178
 
-Contact shigumchis(at)snu.ac.kr if you have any questions.
+Contact shigumchis(at)snu(dot)ac(dot)kr if you have any questions.
 
 # Environments
 > Python 2.7
